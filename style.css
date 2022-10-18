@@ -1,0 +1,35 @@
+<style>
+        
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+#description{
+    font-family: 'Trebuchet MS';
+}
+body{
+    background-color: gray;
+}
+em{
+    color: white;
+}
+#list1{
+    color: white;
+    font-size: 120%;
+    padding: 10px;
+}
+#list2{
+    color: white;
+    font-size: 120%;
+    padding: 10px;
+    
+}
+#list3{
+    color: white;
+    font-size: 120%;
+    padding: 10px;
+}
+#title{
+    color: white;
+}
+
+</style>
